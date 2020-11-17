@@ -4,7 +4,7 @@
 #define MAX_STACK_SIZE 100
 typedef char element;		// 교체!
 							// 차후에 스택이 필요하면 여기만 복사하여 붙인다. 
-							// ===== 스택 코드의 시작 ===== 
+							// ===== 스택 코드의 시작 ===== 커밋확인용
 #define MAX_STACK_SIZE 100
 typedef enum {
     leftparen, rightparen, plus, minus, multiply, divide, eos, remainder, operand
